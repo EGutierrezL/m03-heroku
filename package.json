@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {"start": "node index.js"},
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.17.3"
-  }
+  },
+  "repository": "git@github.com:EGutierrezL/m03-heroku.git"
 }
