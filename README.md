@@ -1,6 +1,6 @@
 # m03-heroku
 uso de Heroku para una app
 Instala dependencias del package.json con:
-> git install
+> yarn install
 Inicia servicio express con:
-> git start
+> yarn start
